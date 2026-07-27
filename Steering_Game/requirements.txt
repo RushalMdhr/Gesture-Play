@@ -1,0 +1,3 @@
+mediapipe          # Hand tracking
+opencv-python      # Camera & image processing (cv2)
+pynput             # Keyboard/mouse control
