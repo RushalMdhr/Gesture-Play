@@ -113,6 +113,10 @@ __not available yet__
 ```text
 [ demo GIF or video here ]
 ```
+## Example Link of Video :
+```bash
+https://www.linkedin.com/posts/rushal-manandhar-96454424a_what-if-you-could-control-a-game-without-ugcPost-7486639116441264128-6n70/
+```
 
 ## 🔮 Future Improvements
 
