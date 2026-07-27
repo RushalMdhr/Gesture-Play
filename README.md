@@ -48,7 +48,7 @@ The webcam captures live video, the hand-tracking system identifies hand landmar
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/gesture-play.git
+git clone https://github.com/RushalMdhr/Gesture-Play.git
 ```
 
 Navigate to the project directory:
@@ -90,7 +90,7 @@ Connect a webcam and make sure it is accessible by your computer.
 Run the main program:
 
 ```bash
-python main.py
+python Steer.py
 ```
 
 Place your hand in front of the camera and use the supported gestures to control the game.
@@ -101,24 +101,18 @@ Place your hand in front of the camera and use the supported gestures to control
 
 | Gesture / Movement      | Keyboard Action |
 | ----------------------- | --------------- |
-| Hand movement / gesture | Up              |
-| Hand movement / gesture | Down            |
-| Hand movement / gesture | Left            |
-| Hand movement / gesture | Right           |
-
-> Update this table with the exact gestures used in the project.
+| closed Fist | Up              |
+| Victory | Down            |
+| Steer to left | Left            |
+| Steer to right | Right           |
 
 ## 🎥 Demo
 
-Add a short GIF or video demonstrating the project here.
+__not available yet__
 
 ```text
-[ Add demo GIF or video here ]
+[ demo GIF or video here ]
 ```
-
-Example:
-
-![Gesture Play Demo](assets/demo.gif)
 
 ## 🔮 Future Improvements
 
@@ -132,6 +126,7 @@ Some ideas for future development:
 * Add a graphical user interface
 * Add gesture calibration
 * Improve accessibility for hands-free gaming
+* solve crashing promblem
 
 ## 🤝 Contributing
 
@@ -154,6 +149,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 👨‍💻 Author
 
-Created by **YOUR NAME**.
+Created by Rushal Manandhar.
 
 If you found this project interesting, feel free to ⭐ the repository!
